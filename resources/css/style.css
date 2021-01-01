@@ -8,6 +8,18 @@ body {
     font-size: 50px;
     color: aliceblue;
 }
+
+.title2 {
+    font-size: 42;
+    font-weight: 300;
+    color: grey;
+}
+
+.title3 {
+    font-size: 21;
+    color: aliceblue;
+}
+
 .link--cta {
     font-size: 16px;
     color: aquamarine;
